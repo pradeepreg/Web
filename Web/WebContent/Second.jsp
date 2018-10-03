@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-ram
+<%! int a =10;
+String b="hello";%>
+<%
+out.print(a);
+%>
 </body>
 </html>
